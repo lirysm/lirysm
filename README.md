@@ -30,7 +30,7 @@
   - Owner & Developer @ QUC
 - 📍 **Based in :** France
 
-## Tech stack
+## What do i use
 
 ### Languages
 
@@ -77,36 +77,31 @@
 
 ## Featured projects
 
-### RebornMC
+### RebornMC (French Minecraft server)
 
-flemem
+RebornMC, YOUR Minecraft server ! Take place in a cozy survival server in which mutual support and courtesy reign.
+Check out our website at https://rebornmc.fr
+Join our Discord for any announcment : https://discord.gg/SbTZfzR24e
 
 <img src="https://img.shields.io/badge/Minecraft--161b22?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" /> <img src="https://img.shields.io/badge/Java--161b22?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Vue.js--161b22?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 
-[Live demo](https://rebornmc.fr)
-
 ---
 
-### QUC
+### QUC (Quizzes website)
 
-ouioui
+We dont have any description or whatever yet, but its a website where youll be able to play quizzes with or against friends and all. Stay tuned
+Visit our website (still being developed) at https://quc.fr
+You can also join our Discord for anything QUC : https://quc.fr/discord
+
 
 <img src="https://img.shields.io/badge/React--161b22?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/React%20Router--161b22?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/Tailwind%20CSS--161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/JavaScript--161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 
-[Live demo](https://quc.fr)
-
-## Let’s connect
+## Contact
 
 <div align="center">
 
-<a href="mailto:lirysm@quc.fr"><img src="https://img.shields.io/badge/Email-Contact-fe9af1?style=flat&logo=gmail&logoColor=white" alt="Email Contact" /></a>
-<a href="https://quc.fr"><img src="https://img.shields.io/badge/Website-Visit-fe9af1?style=flat&logo=firefoxbrowser&logoColor=white" alt="Website Visit" /></a>
-
-</div>
-
-<div align="center">
-
-<sub>Thanks for visiting my profile.</sub>
+Mind checking my page, where you can find all my socials : https://quc.fr/lirysm
+For professionnal contact : lirysm@quc.fr
 
 </div>
 
