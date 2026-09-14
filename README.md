@@ -29,79 +29,13 @@
   - Manager & Developer @ RebornMC
   - Owner & Developer @ QUC
 - 📍 **Based in :** France
-
-## What do i use
-
-### Languages
-
-<p><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="38" height="38" /></p>
-
-### Frontend
-
-<p><img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/electron" alt="Electron" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/vite" alt="Vite" width="38" height="38" /></p>
-
-### Backend
-
-<p><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="38" height="38" /></p>
-
-### Databases
-
-<p><img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="38" height="38" /></p>
-
-### DevOps & Cloud
-
-<p><img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="38" height="38" /></p>
-
-### Tools & IDEs
-
-<p><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/npm" alt="npm" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/discord" alt="Discord" width="38" height="38" /></p>
-
-### Design & Creative
-
-<p><img src="https://cdn.simpleicons.org/blender" alt="Blender" width="38" height="38" /></p>
-
-### Platforms & CMS
-
-<p><img src="https://cdn.simpleicons.org/steam" alt="Steam" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/minecraft" alt="Minecraft" width="38" height="38" /></p>
-
-## Featured projects
-
-### RebornMC (French Minecraft server)
-
-RebornMC, YOUR Minecraft server ! Take place in a cozy survival server in which mutual support and courtesy reign.
-Check out our website at https://rebornmc.fr
-Join our Discord for any announcment : https://discord.gg/SbTZfzR24e
-
-<img src="https://img.shields.io/badge/Minecraft--161b22?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" /> <img src="https://img.shields.io/badge/Java--161b22?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Vue.js--161b22?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-
----
-
-### QUC (Quizzes website)
-
-We dont have any description or whatever yet, but its a website where youll be able to play quizzes with or against friends and all. Stay tuned
-Visit our website (still being developed) at https://quc.fr
-You can also join our Discord for anything QUC : https://quc.fr/discord
-
-
-<img src="https://img.shields.io/badge/React--161b22?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/React%20Router--161b22?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/Tailwind%20CSS--161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/JavaScript--161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-
+  
 ## Contact
 
 <div align="center">
 
 Mind checking my page, where you can find all my socials : https://quc.fr/lirysm
-For professionnal contact : lirysm@quc.fr
+For professionnal contact : lirysm@pinstudio.ch
 
 </div>
 
