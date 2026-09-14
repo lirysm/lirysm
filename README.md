@@ -3,19 +3,14 @@
 </div>
 
 <div align="center">
-  <div >
-    <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />  
-    <h1>Hey, im lirÿsm 👋</h1>
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />  
+  <details open>
+    <summary id="user-content-toc">
+      <h1>Hey, im lirÿsm 👋</h1>
+    </summary>
+  </details>
   <p>Just a French speakin English cause they dumb</p>
 </div>   
-
-<table>
-  <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" /> </td>
-    <td><h1>Hey, im lirÿsm 👋</h1></td>
-  </tr>
-</table>
 
 <!-- <div align="center">	        
   <a href="https://github.com/lirysm?tab=followers"><img src="https://img.shields.io/github/followers/lirysm?style=flat&logo=github&label=Followers&color=fe9af1" alt="GitHub followers" /></a>
