@@ -19,7 +19,8 @@
 <a href="https://github.com/lirysm?tab=followers"><img src="https://img.shields.io/github/followers/lirysm?style=flat&logo=github&label=Followers&color=fe9af1" alt="GitHub followers" /></a>
 <a href="https://github.com/lirysm?tab=repositories"><img src="https://img.shields.io/github/followers/lirysm?style=flat&logo=github&label=Repositories&color=fe9af1" alt="GitHub Repositories" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=lirysm&style=flat&label=Profile%20views&color=fe9af1" alt="Profile views" />
+<a href="https://github.com/lirysm?tab=profile"><img src="https://komarev.com/ghpvc/?username=lirysm&style=flat&label=Profile%20views&color=fe9af1" alt="Profile views" /></a>
+
 
 </div>
 
