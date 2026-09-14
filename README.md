@@ -26,15 +26,16 @@
 ## About me
 
 - 💼 **Working for :**
-  - Manager & Developer @ RebornMC
   - Owner & Developer @ QUC
+  - Member @ PinStudio
+    - Developer @ PinCraft
 - 📍 **Based in :** France
   
 ## Contact
 
 <div align="center">
 
-Mind checking my page, where you can find all my socials : https://quc.fr/lirysm
+Mind checking my page, where you can find all my socials : https://lirysm.is-a.dev
 For professionnal contact : lirysm@pinstudio.ch
 
 </div>
