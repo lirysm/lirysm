@@ -41,6 +41,6 @@ For professionnal contact : lirysm@pinstudio.ch
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A1f6feb%2C100%3A58a6ff&height=80&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A482a55%2C45%3Ae81eeb%2C100%3Adb57ff&height=80&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
 
 </div>
