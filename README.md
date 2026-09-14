@@ -3,12 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />  
-  <details open>
-    <summary id="user-content-toc">
-      <h1>Hey, im lirÿsm 👋</h1>
-    </summary>
-  </details>
+  <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />
+  <h1>Hey, im lirÿsm 👋</h1>
   <p>Just a French speakin English cause they dumb</p>
 </div>   
 
@@ -30,7 +26,7 @@
 ## Contact
 
 Mind checking my page, where you can find all my socials : https://lirysm.is-a.dev.
-For professionnal contact : lirysm@pinstudio.ch
+For professionnal contact : mailto:lirysm@pinstudio.ch
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A482a55%2C45%3Ae81eeb%2C100%3Adb57ff&height=80&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
