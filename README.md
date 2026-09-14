@@ -4,13 +4,13 @@
 
 <div align="center">
   <div >
-    <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />
-    <h1 border="none">Hey, im lirÿsm 👋</h1>
+    <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />  
+    <h1>Hey, im lirÿsm 👋</h1>
   </div>
   <p>Just a French speakin English cause they dumb</p>
-</div>
+</div>   
 
-<!-- <div align="center">
+<!-- <div align="center">	        
   <a href="https://github.com/lirysm?tab=followers"><img src="https://img.shields.io/github/followers/lirysm?style=flat&logo=github&label=Followers&color=fe9af1" alt="GitHub followers" /></a>
   <a href="https://github.com/lirysm?tab=repositories"><img src="https://img.shields.io/github/followers/lirysm?style=flat&logo=github&label=Repositories&color=fe9af1" alt="GitHub Repositories" /></a>
   <a href="https://github.com/lirysm?tab=profile"><img src="https://komarev.com/ghpvc/?username=lirysm&style=flat&label=Profile%20views&color=fe9af1" alt="Profile views" /></a>
@@ -26,9 +26,7 @@
   
 ## Contact
 
-<div align="center">
-  <p>Mind checking my page, where you can find all my socials : https://lirysm.is-a.dev. For professionnal contact : lirysm@pinstudio.ch</p>
-</div>
+Mind checking my page, where you can find all my socials : https://lirysm.is-a.dev. For professionnal contact : lirysm@pinstudio.ch
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A482a55%2C45%3Ae81eeb%2C100%3Adb57ff&height=80&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
