@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/107949426?v=4" alt="lirÿsm" width="108" />
-  <h1>Hey, im lirÿsm 👋</h1>
+  <h1 style="border: none;">Hey, im lirÿsm 👋</h1>
   <p>Just a French speakin English cause they dumb</p>
 </div>
 
