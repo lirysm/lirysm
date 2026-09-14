@@ -26,7 +26,7 @@
   
 ## Contact
 
-Mind checking my page, where you can find all my socials : https://lirysm.is-a.dev.<br>
+Mind checking my page : https://lirysm.is-a.dev<br>
 For professionnal contact : [lirysm@pinstudio.ch](mailto:lirysm@pinstudio.ch)
 
 <div align="center">
