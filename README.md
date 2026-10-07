@@ -19,6 +19,8 @@
 Myy bio page :3
 ➜ https://lirysm.is-a.dev
 
+<br>
+
 💼 **Working as :**
 
 Founder & Developer @ QUC
@@ -28,7 +30,7 @@ Developer @ PinStudio, PinCraft
 ➜ https://pinstudio.ch
 ➜ https://pincraft.ch (Not available yet)
 
-<br><br>
+<br>
 
 📍 **Based in :** France
   
