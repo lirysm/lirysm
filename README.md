@@ -16,10 +16,14 @@
 
 ## About me
 
-💼 **Working for :**
-- Owner & Developer @ QUC
-- Member @ PinStudio
-  - Developer @ PinCraft
+Myy bio page :3
+➜ https://lirysm.is-a.dev
+ㅤ
+Founder & Developer @ QUC
+➜ https://quc.fr
+
+Developer @ PinStudio, PinCraft
+➜ https://pinstudio.ch
 <br>
 
 📍 **Based in :** France
