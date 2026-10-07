@@ -18,7 +18,7 @@
 
 Myy bio page :3
 ➜ https://lirysm.is-a.dev
-ㅤ
+
 Founder & Developer @ QUC
 ➜ https://quc.fr
 
