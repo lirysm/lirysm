@@ -23,11 +23,11 @@ Myy bio page :3
 
 💼 **Working as :**
 
-Founder & Developer @ QUC
+Founder & Developer @ QUC<br>
 ➜ https://quc.fr
 
-Developer @ PinStudio, PinCraft
-➜ https://pinstudio.ch
+Developer @ PinStudio, PinCraft<br>
+➜ https://pinstudio.ch<br>
 ➜ https://pincraft.ch (Not available yet)
 
 <br>
